@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WSL Troubleshooting</title>
-</head>
 <body style="font-family: 'Ubuntu', sans-serif; background-color: #f8f8f8; margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; min-height: 100vh;">
     <div style="max-width: 800px; background-color: #ffffff; padding: 20px; border-radius: 5px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);">
         <h1 style="color: #333; font-size: 28px; margin-bottom: 20px;">WSL Troubleshooting</h1>
