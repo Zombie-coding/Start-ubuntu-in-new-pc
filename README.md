@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
     <title>WSL Troubleshooting</title>
     <style>
         body {
