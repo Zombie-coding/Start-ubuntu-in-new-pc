@@ -1,50 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <title>WSL Troubleshooting</title>
-    <style>
-        body {
-            font-family: 'Ubuntu', sans-serif;
-            background-color: #f8f8f8;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-        }
-        .container {
-            max-width: 800px;
-            background-color: #ffffff;
-            padding: 20px;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-        }
-        h1 {
-            color: #333;
-            font-size: 28px;
-            margin-bottom: 20px;
-        }
-        p {
-            font-size: 18px;
-            margin-bottom: 10px;
-        }
-        ol {
-            margin-left: 20px;
-            font-size: 18px;
-            padding-left: 20px;
-        }
-        ol li {
-            margin-bottom: 10px;
-        }
-        code {
-            background-color: #c6ffab; /* Green background color for code blocks */
-            padding: 2px 4px;
-            border-radius: 4px;
-            font-family: 'Courier New', Courier, monospace;
-        }
-    </style>
-</head>
 <body>
     <div class="container">
         <h1>WSL Troubleshooting</h1>
